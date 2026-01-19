@@ -24,7 +24,11 @@ The project was completed in two stages. The group component focused on explorat
 ### Tools Used
   - R Studio
   - Microsoft Excel
-###
+### Solution
+#### Group Coursework
+[Forecasting Grouo Coursework](https://github.com/saanvi-mudholkar/applied-analytics-portfolio/blob/cc7e1300249b159e5d3a784a8cbb17efc7775ebe/Forecasting%20Group%20Coursework.pdf)
+#### Individual Coursework
+[Forecasting Individual Coursework](https://github.com/saanvi-mudholkar/applied-analytics-portfolio/blob/cc7e1300249b159e5d3a784a8cbb17efc7775ebe/Forecasting%20Individual%20Coursework.pdf)
 
 ## Simulation
 ### Problem Overview
@@ -34,4 +38,5 @@ The project followed a structured stochastic modelling approach, combining analy
 ### Tools Used
   - Microsoft Excel
   - Simul8
-###
+### Solution
+[Simulation Coursework](https://github.com/saanvi-mudholkar/applied-analytics-portfolio/blob/cc7e1300249b159e5d3a784a8cbb17efc7775ebe/SImulation%20Coursework.pdf)
