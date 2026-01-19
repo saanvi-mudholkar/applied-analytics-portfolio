@@ -5,7 +5,7 @@ This repository contains a collection of academic projects in operations researc
 ### Problem Overview
 This project models a cost-minimisation distribution problem for a frozen food company operating two processing plants and multiple distribution warehouses. 
 The objective is to determine the optimal shipment quantities that satisfy warehouse demand at minimum transportation cost, subject to capacity, routing, and operational constraints.
-## Problem Approach
+### Problem Approach
 The problem is formulated as a linear optimization model and solved using Excel Solver.
 Decision variables represent the number of cases shipped from each plant to each warehouse.
 The objective function minimises total transportation cost while satisfying supply, demand, capacity, and routing constraints.
