@@ -1,7 +1,7 @@
 # Applied-Analytics-Portfolio
 This repository contains a collection of academic projects in operations research, discrete-event simulation, forecasting and applied analytics, completed during my postgraduate studies. The projects showcase my experience using tools such as R, Excel Solver and Simul8 to model operational systems and support data-driven decision-making
 
-##Operational Research
+## Operational Research
 ### Problem Overview
 This project models a cost-minimisation distribution problem for a frozen food company operating two processing plants and multiple distribution warehouses. 
 The objective is to determine the optimal shipment quantities that satisfy warehouse demand at minimum transportation cost, subject to capacity, routing, and operational constraints.
@@ -15,7 +15,7 @@ The objective function minimises total transportation cost while satisfying supp
   - Operations Research
 ###
 
-##Forecasting
+## Forecasting
 ### Problem Overview
 This project analyses patterns in a real-world time series and develops multiple forecasting models to predict future values. Using daily cash withdrawal transaction data from ATMs across the Northwest region, the models are evaluated and compared using accuracy metrics to identify the best-fitting approach. The selected model is justified based on its predictive performance and ability to capture underlying trends and seasonality in the data.
 ### Problem Approach
@@ -25,7 +25,7 @@ The project was completed in two stages. The group component focused on explorat
   - Microsoft Excel
 ###
 
-##Simulation
+## Simulation
 ### Problem Overview
 This project uses stochastic modelling and simulation to analyse operational performance and support decision-making in three service systems: a call centre, a removal firm, and a fast food restaurant. The models evaluate capacity, staffing, and policy decisions under uncertainty, using performance measures such as waiting times, service levels, throughput, and profitability. Simulation and analytical methods are applied to explore alternative scenarios and provide operational recommendations based on model insights.
 ### Problem Approach
