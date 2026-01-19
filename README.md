@@ -14,7 +14,7 @@ The objective function minimises total transportation cost while satisfying supp
   - Excel Solver
   - Operations Research
 ### Solution
-[Saanvi Mudholkar_36686277_Dataset 25xlsm.xlsm](https://github.com/saanvi-mudholkar/applied-analytics-portfolio/blob/f9496be5dfde56f1959506fcfa588cd7b26f3ebb/Operational%20Research%20Coursework)
+[Operational Research Coursework](https://github.com/saanvi-mudholkar/applied-analytics-portfolio/blob/f9496be5dfde56f1959506fcfa588cd7b26f3ebb/Operational%20Research%20Coursework)
 
 ## Forecasting
 ### Problem Overview
